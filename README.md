@@ -42,5 +42,8 @@
     <img alt="Visitor Stats" 
         src="https://widgetbite.com/stats/<danishfurekhdar>"/>  
 </div>
+
+---
+
 > *“The wound is the place where the light enters you.” – Rumi*
 
