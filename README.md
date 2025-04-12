@@ -38,6 +38,9 @@
 📬 Email: [danishfurekh@gmail.com](mailto:danishfurekh@gmail.com)
 
 ---
-
+<div align="center">
+    <img alt="Visitor Stats" 
+        src="https://widgetbite.com/stats/<danishfurekhdar>"/>  
+</div>
 > *“The wound is the place where the light enters you.” – Rumi*
 
