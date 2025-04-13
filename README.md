@@ -35,7 +35,7 @@
 
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DanishFurekhDar-blue?logo=linkedin)](https://www.linkedin.com/in/danishfurekhdar)  
-📬 Email: [danishfurekh@gmail.com](mailto:danishfurekh@gmail.com)
+📬 Email: [danishfurekh@gmail.com](mailto:danish.dar@uni-jena.de)
 
 ---
 <div align="center">
