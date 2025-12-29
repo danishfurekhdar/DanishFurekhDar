@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Danish Furekh Dar
 
-🎓 PhD researcher at Helmholtz Institute Jena & Friedrich Schiller University  
+🎓 Completed PhD at Helmholtz Institute Jena & Friedrich Schiller University  
 💡 Working on strong-field ionization, above-threshold ionization (ATI), and quantum electron dynamics  
 📚 Passionate about theoretical physics, saddle point methods, and laser-matter interaction  
 🧠 Interested in AI applications in physics and computational quantum mechanics  
@@ -12,13 +12,6 @@
 - ⚛️ Theoretical modeling of photoelectron momentum distributions using the strong-field approximation
 - 📈 Analyzing nonlinear interference in ATI spectra
 - 🌪️ Investigating twisted laser pulses and non-dipole effects in ionization
-
----
-
-### 🔭 I’m currently learning:
-- Quantum computing fundamentals
-- Deep learning models for physics
-- Data visualization with Julia, Python, and Makie
 
 ---
 
