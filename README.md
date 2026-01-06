@@ -31,6 +31,10 @@
 📬 Email: [Me](mailto:danish.dar@uni-jena.de)
 
 ---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=danishfurekhdar)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 ## 📈 My Stats
 
 <div align="center">
