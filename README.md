@@ -32,7 +32,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=danishfurekhdar)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=danishfurekhdar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ## 📈 My Stats
